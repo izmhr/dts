@@ -1,4 +1,3 @@
-declare module 'funcs' {
-  function test (str: string): string;
-  export = test;
+declare module "Funcs" {
+  export function test(str:string): string;
 }
